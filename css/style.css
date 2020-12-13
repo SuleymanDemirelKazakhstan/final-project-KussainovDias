@@ -1,0 +1,17 @@
+header {
+	background-color: #db4c3f;
+	margin: 0;
+}
+
+main {
+	height: 1000px;
+}
+footer {
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+.copyRight {
+	padding: 25px;
+	font-size: 32px;
+}
